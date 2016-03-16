@@ -1,0 +1,10 @@
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\bin\Debug\Swim_Algorithm.exe
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\bin\Debug\Swim_Algorithm.pdb
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.Properties.Resources.resources
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.Swim_Algorithm.resources
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.exe
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\Swim_Algorithm.pdb
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\bin\Debug\Swim_Algorithm.exe.config
+C:\Users\Sean\Desktop\swim\C#\Swim_Algorithm\Swim_Algorithm\obj\Debug\ChartLine.ChartLine.resources
