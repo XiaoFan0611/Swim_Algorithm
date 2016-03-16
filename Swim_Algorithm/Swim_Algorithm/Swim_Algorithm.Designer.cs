@@ -49,6 +49,7 @@
             this.FilePath_groupBox = new System.Windows.Forms.GroupBox();
             this.FilePath_label = new System.Windows.Forms.Label();
             this.FilePath_textBox = new System.Windows.Forms.TextBox();
+            this.Test_button = new System.Windows.Forms.Button();
             this.Kalman_groupBox.SuspendLayout();
             this.FilePath_groupBox.SuspendLayout();
             this.SuspendLayout();
@@ -265,11 +266,22 @@
             this.FilePath_textBox.Size = new System.Drawing.Size(293, 22);
             this.FilePath_textBox.TabIndex = 1;
             // 
+            // Test_button
+            // 
+            this.Test_button.Location = new System.Drawing.Point(352, 87);
+            this.Test_button.Name = "Test_button";
+            this.Test_button.Size = new System.Drawing.Size(75, 23);
+            this.Test_button.TabIndex = 13;
+            this.Test_button.Text = "Test";
+            this.Test_button.UseVisualStyleBackColor = true;
+            this.Test_button.Click += new System.EventHandler(this.Test_button_Click);
+            // 
             // Swim_Algorithm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(454, 140);
+            this.ClientSize = new System.Drawing.Size(445, 124);
+            this.Controls.Add(this.Test_button);
             this.Controls.Add(this.Kalman_groupBox);
             this.Controls.Add(this.FilePath_groupBox);
             this.Name = "Swim_Algorithm";
@@ -305,6 +317,7 @@
         private System.Windows.Forms.GroupBox FilePath_groupBox;
         private System.Windows.Forms.Label FilePath_label;
         private System.Windows.Forms.TextBox FilePath_textBox;
+        private System.Windows.Forms.Button Test_button;
     }
 }
 

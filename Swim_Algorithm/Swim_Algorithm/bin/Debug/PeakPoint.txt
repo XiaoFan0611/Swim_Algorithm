@@ -1,0 +1,137 @@
+                檔案名稱:F_left_9touch22touch15_sean.csv
+============================================================
+Peak time:170     peak:1.369446       Valley time:132     valley:-0.3325194       Occur time:178
+Stroke Detected! Peak time:206     peak:1.248352       Valley time:187     valley:0.2872315       Occur time:213
+Stroke Detected! Peak time:235     peak:1.505493       Valley time:217     valley:0.6254272       Occur time:242
+Stroke Detected! Peak time:268     peak:1.354492       Valley time:251     valley:0.3229981       Occur time:274
+Stroke Detected! Peak time:303     peak:1.226929       Valley time:287     valley:0.1573486       Occur time:311
+Stroke Detected! Peak time:333     peak:1.38147       Valley time:315     valley:0.5654907       Occur time:341
+Stroke Detected! Peak time:366     peak:1.222107       Valley time:350     valley:0.2077025       Occur time:375
+Stroke Detected! Peak time:406     peak:1.098816       Valley time:388     valley:0.0894775       Occur time:413
+Stroke Detected! Peak time:439     peak:1.406494       Valley time:424     valley:0.5141601       Occur time:446
+Stroke Detected! Peak time:467     peak:1.068604       Valley time:455     valley:0.395691       Occur time:475
+Peak time:607     peak:1.201904       Valley time:587     valley:-0.2272951       Occur time:618
+Stroke Detected! Peak time:650     peak:1.318115       Valley time:633     valley:0.1513061       Occur time:658
+Stroke Detected! Peak time:682     peak:1.317078       Valley time:666     valley:0.4640504       Occur time:691
+Stroke Detected! Peak time:717     peak:1.330017       Valley time:702     valley:0.3096924       Occur time:725
+Stroke Detected! Peak time:758     peak:1.174805       Valley time:737     valley:0.1004027       Occur time:763
+Stroke Detected! Peak time:790     peak:1.291443       Valley time:773     valley:0.446106       Occur time:795
+Stroke Detected! Peak time:821     peak:1.309692       Valley time:806     valley:0.328125       Occur time:829
+Stroke Detected! Peak time:856     peak:1.149048       Valley time:843     valley:0.2766725       Occur time:867
+Stroke Detected! Peak time:889     peak:1.275085       Valley time:872     valley:0.536377       Occur time:898
+Stroke Detected! Peak time:922     peak:1.351501       Valley time:905     valley:0.3526611       Occur time:930
+Stroke Detected! Peak time:961     peak:1.221008       Valley time:944     valley:0.1018067       Occur time:969
+Stroke Detected! Peak time:995     peak:1.330505       Valley time:977     valley:0.5269775       Occur time:1001
+Stroke Detected! Peak time:1023     peak:1.2229       Valley time:1011     valley:0.4234009       Occur time:1032
+Stroke Detected! Peak time:1062     peak:1.126465       Valley time:1047     valley:0.06286619       Occur time:1074
+Stroke Detected! Peak time:1096     peak:1.243652       Valley time:1079     valley:0.5484619       Occur time:1105
+Stroke Detected! Peak time:1129     peak:1.241943       Valley time:1113     valley:0.4490358       Occur time:1138
+Stroke Detected! Peak time:1168     peak:1.073181       Valley time:1154     valley:0.1270752       Occur time:1179
+Stroke Detected! Peak time:1205     peak:1.184814       Valley time:1190     valley:0.5582886       Occur time:1212
+Stroke Detected! Peak time:1235     peak:1.225647       Valley time:1221     valley:0.3113403       Occur time:1246
+Stroke Detected! Peak time:1274     peak:1.15564       Valley time:1260     valley:0.1088258       Occur time:1285
+Stroke Detected! Peak time:1309     peak:1.236877       Valley time:1291     valley:0.5683595       Occur time:1317
+Stroke Detected! Peak time:1342     peak:1.190125       Valley time:1325     valley:0.3232422       Occur time:1350
+Stroke Detected! Peak time:1376     peak:1.096863       Valley time:1361     valley:0.3552247       Occur time:1384
+Peak time:1501     peak:1.189514       Valley time:1482     valley:-0.1781005       Occur time:1510
+Stroke Detected! Peak time:1542     peak:1.072327       Valley time:1527     valley:0.1016237       Occur time:1552
+Stroke Detected! Peak time:1573     peak:1.179565       Valley time:1564     valley:0.411499       Occur time:1585
+Stroke Detected! Peak time:1609     peak:1.19751       Valley time:1593     valley:0.383728       Occur time:1618
+Stroke Detected! Peak time:1650     peak:1.006897       Valley time:1636     valley:0.2457887       Occur time:1660
+Stroke Detected! Peak time:1687     peak:1.214295       Valley time:1671     valley:0.4834595       Occur time:1694
+Stroke Detected! Peak time:1718     peak:1.240906       Valley time:1703     valley:0.3610229       Occur time:1728
+Stroke Detected! Peak time:1757     peak:1.21698       Valley time:1743     valley:0.2485962       Occur time:1767
+Stroke Detected! Peak time:1792     peak:1.265503       Valley time:1774     valley:0.4097292       Occur time:1801
+Stroke Detected! Peak time:1825     peak:1.174927       Valley time:1809     valley:0.3826292       Occur time:1834
+Stroke Detected! Peak time:1862     peak:1.170837       Valley time:1851     valley:0.2396851       Occur time:1874
+Stroke Detected! Peak time:1894     peak:1.28833       Valley time:1879     valley:0.578186       Occur time:1905
+Stroke Detected! Peak time:1930     peak:1.134216       Valley time:1910     valley:0.4691162       Occur time:1936
+Stroke Detected! Peak time:1969     peak:1.100708       Valley time:1955     valley:0.2192993       Occur time:1980
+Stroke Detected! Peak time:2000     peak:1.224854       Valley time:1990     valley:0.5863038       Occur time:2012
+Stroke Detected! Peak time:2034     peak:1.094727       Valley time:2016     valley:0.5099487       Occur time:2040
+Stroke Detected! Peak time:2076     peak:1.023316       Valley time:2043     valley:0.5717164       Occur time:2082
+Peak time:179     peak:0.5776978       Valley time:163     valley:-0.142578       Occur time:190
+Stroke Detected! Peak time:219     peak:0.5419312       Valley time:204     valley:-0.1899414       Occur time:222
+Stroke Detected! Peak time:240     peak:0.753235       Valley time:226     valley:0.01818849       Occur time:252
+Stroke Detected! Peak time:276     peak:0.7144166       Valley time:257     valley:-0.09204093       Occur time:287
+Stroke Detected! Peak time:318     peak:0.5274047       Valley time:303     valley:-0.1351318       Occur time:321
+Stroke Detected! Peak time:341     peak:0.5497435       Valley time:327     valley:-0.05389419       Occur time:353
+Stroke Detected! Peak time:378     peak:0.6669312       Valley time:357     valley:-0.1335449       Occur time:387
+Stroke Detected! Peak time:423     peak:0.6042479       Valley time:395     valley:-0.2902832       Occur time:425
+Stroke Detected! Peak time:454     peak:0.5109863       Valley time:439     valley:-0.08386233       Occur time:458
+Stroke Detected! Peak time:478     peak:0.50708       Valley time:462     valley:-0.08178711       Occur time:487
+Stroke Detected! Peak time:534     peak:-0.1380613       Valley time:497     valley:-0.7636718       Occur time:544
+Peak time:622     peak:0.8142089       Valley time:586     valley:-0.3183594       Occur time:633
+Stroke Detected! Peak time:657     peak:0.5048828       Valley time:641     valley:-0.2590943       Occur time:670
+Stroke Detected! Peak time:690     peak:0.6168213       Valley time:673     valley:-0.1296999       Occur time:702
+Stroke Detected! Peak time:726     peak:0.663452       Valley time:706     valley:-0.04931629       Occur time:736
+Stroke Detected! Peak time:773     peak:0.4945679       Valley time:754     valley:-0.2525024       Occur time:775
+Stroke Detected! Peak time:805     peak:0.5376586       Valley time:789     valley:-0.08923341       Occur time:808
+Stroke Detected! Peak time:833     peak:0.6370851       Valley time:813     valley:0.1075439       Occur time:844
+Stroke Detected! Peak time:876     peak:0.597351       Valley time:859     valley:-0.09283446       Occur time:879
+Stroke Detected! Peak time:896     peak:0.4883423       Valley time:892     valley:0.02331543       Occur time:909
+Stroke Detected! Peak time:933     peak:0.7379149       Valley time:913     valley:-0.04241943       Occur time:943
+Stroke Detected! Peak time:969     peak:0.5368651       Valley time:961     valley:-0.1849365       Occur time:980
+Stroke Detected! Peak time:999     peak:0.4574585       Valley time:985     valley:-0.05908198       Occur time:1012
+Stroke Detected! Peak time:1036     peak:0.6856689       Valley time:1016     valley:-0.03015137       Occur time:1046
+Stroke Detected! Peak time:1083     peak:0.5999146       Valley time:1053     valley:-0.2776488       Occur time:1085
+Stroke Detected! Peak time:1104     peak:0.419983       Valley time:1099     valley:-0.06298833       Occur time:1117
+Stroke Detected! Peak time:1141     peak:0.6952515       Valley time:1122     valley:-0.06292719       Occur time:1151
+Stroke Detected! Peak time:1179     peak:0.6340333       Valley time:1158     valley:-0.1327514       Occur time:1191
+Stroke Detected! Peak time:1212     peak:0.7329713       Valley time:1197     valley:0.02789314       Occur time:1223
+Stroke Detected! Peak time:1250     peak:0.7717894       Valley time:1233     valley:-0.07037351       Occur time:1259
+Stroke Detected! Peak time:1295     peak:0.5481567       Valley time:1267     valley:-0.3639527       Occur time:1298
+Stroke Detected! Peak time:1317     peak:0.4752196       Valley time:1312     valley:0.02716061       Occur time:1330
+Stroke Detected! Peak time:1355     peak:0.4739381       Valley time:1340     valley:-0.1229858       Occur time:1366
+Peak time:1440     peak:-0.3432007       Valley time:1426     valley:-0.7785644       Occur time:1450
+Stroke Detected! Peak time:1516     peak:0.5699464       Valley time:1482     valley:-0.2825927       Occur time:1529
+Stroke Detected! Peak time:1553     peak:0.807312       Valley time:1532     valley:0.1530151       Occur time:1558
+Stroke Detected! Peak time:1585     peak:0.5678101       Valley time:1569     valley:-0.3406371       Occur time:1598
+Stroke Detected! Peak time:1625     peak:0.8395386       Valley time:1607     valley:-0.0721435       Occur time:1633
+Stroke Detected! Peak time:1673     peak:0.6234741       Valley time:1642     valley:-0.3009645       Occur time:1675
+Stroke Detected! Peak time:1705     peak:0.4899294       Valley time:1689     valley:-0.1083375       Occur time:1708
+Stroke Detected! Peak time:1736     peak:0.4292603       Valley time:1720     valley:-0.0998535       Occur time:1744
+Stroke Detected! Peak time:1779     peak:0.513977       Valley time:1761     valley:-0.1184081       Occur time:1782
+Stroke Detected! Peak time:1802     peak:0.5119018       Valley time:1787     valley:-0.09692374       Occur time:1814
+Stroke Detected! Peak time:1839     peak:0.6540527       Valley time:1826     valley:-0.09808354       Occur time:1851
+Stroke Detected! Peak time:1883     peak:0.7152709       Valley time:1867     valley:-0.2105104       Occur time:1888
+Stroke Detected! Peak time:1943     peak:0.6461793       Valley time:1924     valley:-0.08435063       Occur time:1950
+Stroke Detected! Peak time:1979     peak:0.3151855       Valley time:1972     valley:-0.2418212       Occur time:1981
+Stroke Detected! Peak time:2011     peak:0.4782716       Valley time:1995     valley:-0.04925531       Occur time:2024
+Stroke Detected! Peak time:2047     peak:0.3167726       Valley time:2034     valley:-0.168396       Occur time:2054
+Peak time:191     peak:0.7339479       Valley time:174     valley:0.09661874       Occur time:196
+Peak time:293     peak:0.835022       Valley time:274     valley:-0.06665048       Occur time:302
+Stroke Detected! Peak time:351     peak:0.7651367       Valley time:333     valley:0.2840575       Occur time:359
+Stroke Detected! Peak time:389     peak:0.8095703       Valley time:367     valley:0.04016118       Occur time:397
+Stroke Detected! Peak time:427     peak:0.6464844       Valley time:411     valley:0.2366333       Occur time:432
+Stroke Detected! Peak time:456     peak:0.7358398       Valley time:440     valley:0.1482545       Occur time:464
+Stroke Detected! Peak time:491     peak:0.4352417       Valley time:475     valley:-0.3306274       Occur time:504
+Peak time:587     peak:0.8274537       Valley time:548     valley:-0.01684574       Occur time:595
+Stroke Detected! Peak time:637     peak:0.8914795       Valley time:616     valley:-0.1636352       Occur time:648
+Stroke Detected! Peak time:700     peak:0.7479858       Valley time:682     valley:0.1788941       Occur time:709
+Stroke Detected! Peak time:739     peak:0.8261108       Valley time:722     valley:0.04840082       Occur time:747
+Stroke Detected! Peak time:774     peak:0.7214355       Valley time:761     valley:0.3170166       Occur time:781
+Stroke Detected! Peak time:846     peak:0.777832       Valley time:820     valley:0.04132068       Occur time:851
+Stroke Detected! Peak time:908     peak:0.7415773       Valley time:866     valley:0.3247072       Occur time:913
+Stroke Detected! Peak time:951     peak:0.7593995       Valley time:926     valley:-0.05474862       Occur time:955
+Stroke Detected! Peak time:1008     peak:0.7296753       Valley time:995     valley:0.300171       Occur time:1017
+Stroke Detected! Peak time:1053     peak:0.8366699       Valley time:1023     valley:-0.05151368       Occur time:1058
+Stroke Detected! Peak time:1109     peak:0.7208863       Valley time:1093     valley:0.2644043       Occur time:1122
+Stroke Detected! Peak time:1157     peak:0.8509522       Valley time:1135     valley:-0.1621095       Occur time:1163
+Stroke Detected! Peak time:1225     peak:0.626709       Valley time:1209     valley:0.1386719       Occur time:1231
+Stroke Detected! Peak time:1262     peak:0.8034668       Valley time:1245     valley:-0.2492675       Occur time:1272
+Stroke Detected! Peak time:1322     peak:0.8250731       Valley time:1306     valley:0.3023683       Occur time:1334
+Stroke Detected! Peak time:1368     peak:0.6547852       Valley time:1343     valley:-0.1051025       Occur time:1373
+Peak time:1485     peak:0.8482667       Valley time:1444     valley:0.01074219       Occur time:1491
+Stroke Detected! Peak time:1532     peak:0.7428589       Valley time:1503     valley:-0.006530821       Occur time:1537
+Stroke Detected! Peak time:1589     peak:0.7192382       Valley time:1573     valley:0.2950439       Occur time:1602
+Stroke Detected! Peak time:1641     peak:0.7467042       Valley time:1611     valley:-0.09112549       Occur time:1648
+Stroke Detected! Peak time:1699     peak:0.744507       Valley time:1683     valley:0.2398071       Occur time:1712
+Stroke Detected! Peak time:1744     peak:0.7966919       Valley time:1719     valley:0.02404783       Occur time:1749
+Stroke Detected! Peak time:1813     peak:0.70459       Valley time:1798     valley:0.2493897       Occur time:1819
+Stroke Detected! Peak time:1852     peak:0.6877441       Valley time:1826     valley:-0.02062977       Occur time:1861
+Stroke Detected! Peak time:1910     peak:0.7035523       Valley time:1894     valley:0.1917114       Occur time:1923
+Stroke Detected! Peak time:1958     peak:0.8108521       Valley time:1936     valley:-0.06726082       Occur time:1964
+Stroke Detected! Peak time:2020     peak:0.6817018       Valley time:2004     valley:0.2615966       Occur time:2029
+Stroke Detected! Peak time:2057     peak:0.4195558       Valley time:2040     valley:-0.3668824       Occur time:2067
+Peak time:2229     peak:0.8630372       Valley time:2198     valley:-0.2684327       Occur time:2237
